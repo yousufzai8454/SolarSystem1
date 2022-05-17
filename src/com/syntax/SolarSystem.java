@@ -1,6 +1,6 @@
 package com.syntax;
 
-public class SolarSystem {
+
     public class SolarSystem {
 
         String Sun;
@@ -9,4 +9,4 @@ public class SolarSystem {
         String Planet;
 
     }
-}
+
