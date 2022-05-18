@@ -12,5 +12,4 @@ public class Main {
         FactorX.Star="10000";
     }
 }
-    }
-}
+ 
